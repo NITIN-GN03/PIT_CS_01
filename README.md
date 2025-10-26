@@ -54,8 +54,8 @@ This project is licensed under the **MIT License** — feel free to modify and s
 ---
 
 ## 👨‍💻 Author
-**Your Name (replace here)**  
+NITIN G N  
 Cybersecurity Enthusiast | Python Developer  
-📧 [your-email@example.com](mailto:your-email@example.com)
+📧 nitingn03@gmail.com
 
 ---
